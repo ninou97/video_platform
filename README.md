@@ -23,6 +23,6 @@
 ### 1. Клонирование репозитория
 
 ```bash
-git clone [https://github.com/ninou97/video_platform.git](https://github.com/ninou97/video_platform.git)
+git clone https://github.com/ninou97/video_platform.git
 cd video_platform
 ```
